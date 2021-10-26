@@ -1,5 +1,7 @@
-= TP ODL - programmation Java: classes abstraites et interfaces
-François Roland <francois.roland@umons.ac.be>
-2017-10-19
+= Modélisation et Programmation Avancée : TP 2 Exercice 2, classes abstraites et interfaces
+Stéphane Dupont <stephane.dupont@umons.ac.be>
+2021-10-26
 
 Ce repository contient le code nécessaire à la 2ème séance de travaux pratiques.
+
+Les instructions du cours se trouvent sur https://moodle.umons.ac.be/mod/resource/view.php?id=156905[Moodle].
